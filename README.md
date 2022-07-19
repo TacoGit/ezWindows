@@ -8,15 +8,19 @@
 
 ### Prerequisites
 - [Windows 10 or above](https://www.microsoft.com/en-us/software-download/windows10)
-- [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
+- [winget](https://github.com/microsoft/winget-cli/releases/tag/v1.2.10271)
 
 ### 1: Clone the repository
 ```ps
-git clone github.com/TacoGit/betterPluginInstaller
+git clone https://github.com/TacoGit/ezWindows
+```
+### 2: Install needs
+```ps
+pip install -r requirements
 ```
 ### 2: Run
 ```ps
-Double click the `ezWindows.exe` and choose how u want it to look like
+py main.py help
 ```
 
 ---
