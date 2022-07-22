@@ -5,8 +5,8 @@
 ---
 
 ## Tested on
-### Windows 10 20H2, VMWare
-### Windows 10 21H2, Main Machine
+### ✔️ Windows 10 20H2, VMWare
+### ✔️ Windows 10 21H2, Main Machine
 
 ---
 
