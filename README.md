@@ -39,4 +39,14 @@ py main.py help
 
 ---
 
+## Problems
+
+⚬ Rainmeter skins didnt apply <br>
+You will need to apply the skins on your own, this is a common bug that can not be fixed
+
+⚬ Access denied while debloating <br>
+Ignore that, it isnt a big of a deal
+
+---
+
 ezWindows is all safe and open-source, no damages can be made.
