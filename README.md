@@ -3,10 +3,17 @@
 <br>
 
 ---
+🟢 = Works
+🟠 = Partly works
+🔴 = Does not work
+⚫ = Untested
 
 ## Tested on
-### ✔️ Windows 10 20H2, VMWare
-### ✔️ Windows 10 21H2, Main Machine
+### ⚫ Windows 11
+### 🟢 Windows 10 20H2
+### 🟢 Windows 10 21H2
+### 🟢 Windows 8.1
+### 🔴 Windows 7
 
 ---
 
