@@ -409,10 +409,6 @@ def main():
         print("[x] Please run this program with args, or type 'py "  + sys.argv[0] + " help'")
         print(Style.RESET_ALL)
         os._exit(0)
-    if len(sys.argv) == 2:
-        print("[x] Please run this program with args, or type 'py "  + sys.argv[0] + " help'")
-        print(Style.RESET_ALL)
-        os._exit(0)
 
     if str(sys.argv[1]) == "help":
         print("There are 2 args for the first, 'light' and 'dark', you can choose which one u prefer")
@@ -422,6 +418,11 @@ def main():
         print("ezWindows is also open-source, no obfuscation; incase you do not trust this.")
         print(Style.RESET_ALL)
         os._exit(1)
+
+    if len(sys.argv) == 2:
+        print("[x] Please run this program with args, or type 'py "  + sys.argv[0] + " help'")
+        print(Style.RESET_ALL)
+        os._exit(0)
 
     if str(sys.argv[1]) == "whoami":
         print("                         " + username)
