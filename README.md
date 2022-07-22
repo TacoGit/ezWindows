@@ -4,11 +4,17 @@
 
 ---
 
+## Tested on
+### Windows 10 20H2, VMWare
+### Windows 10 21H2, Main Machine
+
+---
+
 ## How to run
 
 ### Prerequisites
 - [Windows 10 or above](https://www.microsoft.com/en-us/software-download/windows10)
-- [winget](https://github.com/microsoft/winget-cli/releases/tag/v1.2.10271)
+- [winget](https://github.com/microsoft/winget-cli/releases/tag/v1.2.10271) (Optional)
 
 ### 1: Clone the repository
 ```ps
