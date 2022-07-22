@@ -22,6 +22,7 @@
 ### Prerequisites
 - [Windows 10 or above](https://www.microsoft.com/en-us/software-download/windows10)
 - [winget](https://github.com/microsoft/winget-cli/releases/tag/v1.2.10271) (Optional)
+- [Git](https://git-scm.com)
 
 ### 1: Clone the repository
 ```ps
